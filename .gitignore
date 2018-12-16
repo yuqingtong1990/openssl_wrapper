@@ -1,0 +1,9 @@
+*.slo
+*.lo
+*.o
+*.d
+*.lai
+*.la
+*.a
+cmake-build-debug
+.idea
